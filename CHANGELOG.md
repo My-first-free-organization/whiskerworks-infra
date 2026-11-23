@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 131
-- infra: maintenance and dependency updates (2026-11-23 13:35)
+## Sprint 132
+- infra: maintenance and dependency updates (2026-11-23 17:42)
